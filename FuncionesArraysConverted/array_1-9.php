@@ -71,7 +71,7 @@
             </tr>');
 
         }
-        echo('</tbody></table><br><br>');
+        echo('</table><br><br>');
 
 
         //E9-Utiliza la función array_column para obtener un array indexado que contenga únicamente los nombres de los alumnos y muéstralo por pantalla.
