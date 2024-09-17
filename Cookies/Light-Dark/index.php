@@ -9,14 +9,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="styles.css" />
-    <title>Cookies-Claro/Oscuro</title>
+    <title>Cookies-Light/Dark</title>
 </head>
 <body class="<?php echo $value;?>">
     <header>
         <nav>
             <ul>
-                <li><a href="?x=0">Oscuro</a></li>
-                <li><a href="?x=1">Claro</a></li>
+                <li><a href="?x=0">Dark</a></li>
+                <li><a href="?x=1">Light</a></li>
             </ul>
         </nav>
     </header>
